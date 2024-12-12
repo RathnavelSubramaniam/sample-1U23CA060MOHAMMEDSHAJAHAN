@@ -2,13 +2,13 @@ import java.util.Scanner;
 
 class prgrm {
   public static void main(String[] args) {
-    Scanner myObj = new Scanner(System.in);
+    Scanner ameen = new Scanner(System.in);
 
     System.out.println("Enter name, age and salary:");
 
-    String name = myObj.nextLine();
-    int age = myObj.nextInt();
-    double salary = myObj.nextDouble();
+    String name = ameen.nextLine();
+    int age = ameen.nextInt();
+    double salary = ameen.nextDouble();
     
        
       
